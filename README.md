@@ -11,11 +11,11 @@
 
 https://www.anaconda.com/
 安装时勾选配置环境变量，或者自己配置环境变量
-### 1.安装requirement.txt中的库
+### 2.安装requirement.txt中的库
 ```python
 pip install -r requirement.txt
 ```
-### 2.配置selenium环境
+### 3.配置selenium环境
 这一步可能会遇到很多问题，建议多百度解决
 搜索关键字 ```selenium python 环境搭建```
 
@@ -29,7 +29,7 @@ https://sites.google.com/a/chromium.org/chromedriver/home
 然后把驱动放到chrome软件目录下，这个目录应该在
 C:\Program Files (x86)\Google\Chrome\Application
 
-### 3.打开AmentiaTree.py修改内容
+### 4.打开AmentiaTree.py修改内容
 
 username 你的账号
 
@@ -37,7 +37,7 @@ passwd 你的密码
 
 url 要挂的课的url（课已经选了）
 
-### 4.一切就绪 执行脚本 
+### 5.一切就绪 执行脚本 
 
 
 ## 使用建议
